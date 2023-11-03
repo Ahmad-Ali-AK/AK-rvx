@@ -1,1 +1,22 @@
-[]
+[ {
+  "patchName" : "Custom package name",
+  "options" : [ {
+    "key" : "YouTubePackageName",
+    "value" : "app.AK.android.youtube"
+  }, {
+    "key" : "MusicPackageName",
+    "value" : "app.AK.android.apps.youtube.music"
+  } ]
+}, {
+  "patchName" : "Custom branding YouTube name",
+  "options" : [ {
+    "key" : "YouTubeAppName",
+    "value" : "AK"
+  } ]
+}, {
+  "patchName" : "Theme",
+  "options" : [ {
+    "key" : "darkThemeBackgroundColor",
+    "value" : "@android:color/black"
+  } ]
+} ]
